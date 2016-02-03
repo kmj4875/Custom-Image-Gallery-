@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Bronx Zoo | Lab</title>
+    <title>Image Gallery | Lab</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -16,8 +17,8 @@
     <!-- Modals; Edit with care -->
     <!-- A modal -->
     <div id="img1" style="display:none;">
-      <p>Flamingo</p>
-      <img src="/Users/Minjae/Desktop/Web Development /Custom-Image-Gallery-/small/Flamingo .jpg">
+      <p>The ROAD</p>
+      <img src="images/large/001.jpg">
     </div>
      <!-- A modal -->
     <div id="img2" style="display:none;">
