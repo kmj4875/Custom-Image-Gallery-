@@ -17,7 +17,7 @@
     <!-- A modal -->
     <div id="img1" style="display:none;">
       <p>Flamingo</p>
-      <img src="/Users/Minjae/Desktop/Web Development /Custom-Image-Gallery-/large/Flamingo L.jpg">
+      <img src="/Users/Minjae/Desktop/Web Development /Custom-Image-Gallery-/small/Flamingo.jpg">
     </div>
      <!-- A modal -->
     <div id="img2" style="display:none;">
